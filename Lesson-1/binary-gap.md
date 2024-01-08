@@ -1,3 +1,9 @@
+<h1 align="center">BinaryGap</h1>
+<p align="center">
+<a href="https://app.codility.com/programmers/trainings/9/binary_gap/">Problem Link</a> | 
+<a href="./Lesson-1/binary-gap.cpp">C++ Solution</a>
+</p>
+
 # Intuition
 
 <!-- Describe your first thoughts on how to solve this problem. -->
