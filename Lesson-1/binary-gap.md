@@ -33,7 +33,7 @@ To optimize the bruteforce solution to O(1) we can solve the problem with bit ma
 - Space complexity: O(1)
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
 
-# Code
+# Code: C++
 
 ```C++
 int solution(int N) {
