@@ -15,7 +15,7 @@ ii. max counter − all counters are set to the maximum value of any counter.
 
 <!-- Describe your approach to solving the problem. -->
 
-We can solve this problem in multiple ways. A bruteforce approach would be, we can increase each element counter an whenever N+1 occured we can reset all the counter via max counter running the loop from 1 t N. But in this case the space time will be O(N\*(M+count(N+1))).
+We can solve this problem in multiple ways. A bruteforce approach would be, we can increase each element counter an whenever N+1 occured we can reset all the counter via max counter running the loop from 1 t N. But in this case the time complexity will be O(N\*(M+count(N+1))).
 
 To optimize the bruteforce solution to O(n) by time we can solve the problem maintaing two variable minCount and maxCount. Steps to construct the solution:
 

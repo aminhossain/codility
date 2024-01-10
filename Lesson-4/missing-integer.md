@@ -21,7 +21,7 @@ We can solve this problem using `map` data structure. `map` stores unique occura
 
 # Complexity
 
-- Time complexity: O(n)
+- Time complexity: O(maxi)
 <!-- Add your time complexity here, e.g. $$O(n)$$ -->
 
 - Space complexity: O(n)
