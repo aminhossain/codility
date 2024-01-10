@@ -1,4 +1,4 @@
-<h1 align="center">Cyclic Rotation</h1>
+<h1 align="center">CyclicRotation</h1>
 <p align="center">
 <a href="https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/">Problem Link</a>
 </p>

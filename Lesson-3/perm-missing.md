@@ -1,4 +1,4 @@
-<h1 align="center">PremMissingElem</h1>
+<h1 align="center">PermMissingElem</h1>
 <p align="center">
 <a href="https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/">Problem Link</a>
 </p>

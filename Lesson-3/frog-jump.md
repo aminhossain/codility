@@ -1,4 +1,4 @@
-<h1 align="center">Frog Jump</h1>
+<h1 align="center">FrogJump</h1>
 <p align="center">
 <a href="https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/">Problem Link</a>
 </p>

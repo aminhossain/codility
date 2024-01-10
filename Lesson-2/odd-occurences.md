@@ -1,4 +1,4 @@
-<h1 align="center">Odd Occurences</h1>
+<h1 align="center">OddOccurences</h1>
 <p align="center">
 <a href="https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/">Problem Link</a>
 </p>
