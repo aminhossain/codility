@@ -1,4 +1,4 @@
-<h1 align="center">Codility</h1>
+<h1 align="center">Crack Codility</h1>
 <p align="center">Codility problems and solutions.</p>
 
 ## Contents
