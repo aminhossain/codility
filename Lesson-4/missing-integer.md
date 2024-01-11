@@ -15,7 +15,8 @@ The problem requires finding the smallest positive integer from the given array.
 
 We can solve this problem using `map` data structure. `map` stores unique occurance of the element and also it's easy to find any element from map. Steps to construct the solution:
 
-- Declare a map `mp` and store all the element of the array and keep the max value from the array in `maxi`
+- Declare a map `mp` and store all the element of the array
+- keep the max value from the array in a variable `maxi`
 - Now run a loop from `1 to maxi` and check `i` is exists in `mp` or not, if no then return the `i` immediatly
 - Otherwise if the `maxi` is less than 0 then retun `1` else return `maxi+1`
 
